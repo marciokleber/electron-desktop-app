@@ -4,6 +4,7 @@
   "description": "Laboratório de criação de aplicativo desktop usando Electronjs.",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "marciokleber",
